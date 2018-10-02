@@ -7,10 +7,10 @@ description: 'This is a template chapter.'
 
 ```yaml
 type: VideoExercise
+key: 493e7b8d15
 lang: sql
 xp: 50
 skills: 1
-key: 493e7b8d15
 ```
 
 
@@ -20,9 +20,9 @@ key: 493e7b8d15
 
 ```yaml
 type: PureMultipleChoiceExercise
+key: 0623dc166d
 xp: 50
 skills: 1
-key: 0623dc166d
 ```
 
 This exercise serves as a multiple choice exercise with no coding. We have a hard
@@ -52,10 +52,10 @@ This should assist students in cutting out some of the distractors.
 
 ```yaml
 type: NormalExercise
+key: 7ac7b0f70f
 lang: sql
 xp: 100
 skills: 1
-key: 7ac7b0f70f
 ```
 
 This is the [assignment text](http://authoring.datacamp.com/courses/exercises/normal-exercises/assignment-text.html). 
@@ -116,10 +116,10 @@ Ex().success_msg("Some praise! Then reinforce a learning objective from the exer
 
 ```yaml
 type: NormalExercise
+key: 70cbe3450c
 lang: r
 xp: 100
 skills: 1
-key: 70cbe3450c
 ```
 
 This is the [assignment text](http://authoring.datacamp.com/courses/exercises/normal-exercises/assignment-text.html). 
